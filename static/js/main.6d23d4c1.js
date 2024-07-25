@@ -9226,6 +9226,55 @@
                             },
                             updatedAt: "2021-07-30T17:48:12+00:00"
                         },
+                        "225affb176778569276e484e1b92637ad061b01e13a048b35a9d280c3b58970f3": {
+                            id: "225affb176778569276e484e1b92637ad061b01e13a048b35a9d280c3b58970f3",
+                            name: "Solana",
+                            slug: "solana",
+                            description: "The most trusted platform to manage digital assets.",
+                            homepage: "https://solana.com/",
+                            chains: ["eip155:1", "eip155:10", "eip155:100", "eip155:1313161554", "eip155:137", "eip155:246", "eip155:4", "eip155:42161", "eip155:43114", "eip155:5", "eip155:56", "eip155:73799"],
+                            versions: ["1", "2"],
+                            sdks: ["sign_v1", "sign_v2"],
+                            app_type: "wallet",
+                            category: "Smart Contract Wallets",
+                            image_id: "3913df81-63c2-4413-d60b-8ff83cbed5001",
+                            image_url: {
+                                sm: "https://solscan.io/_next/static/media/solana-sol-logo.ecf2bf3a.svg",
+                                md: "https://solscan.io/_next/static/media/solana-sol-logo.ecf2bf3a.svg",
+                                lg: "https://solscan.io/_next/static/media/solana-sol-logo.ecf2bf3a.svg"
+                            },
+                            app: {
+                                browser: "https://app.safe.global/",
+                                ios: "https://apps.apple.com/app/id1515759131",
+                                android: "https://play.google.com/store/apps/details?id=io.gnosis.safe",
+                                mac: null,
+                                windows: null,
+                                linux: null,
+                                chrome: null,
+                                firefox: null,
+                                safari: null,
+                                edge: null,
+                                opera: null
+                            },
+                            injected: null,
+                            rdns: null,
+                            mobile: {
+                                native: "solana://",
+                                universal: "https://solana.com/"
+                            },
+                            desktop: {
+                                native: "",
+                                universal: null
+                            },
+                            metadata: {
+                                shortName: "Safe",
+                                colors: {
+                                    primary: "#12FF80",
+                                    secondary: "#121312"
+                                }
+                            },
+                            updatedAt: "2021-07-30T17:48:12.565532+00:00"
+                        },
                         "225affb176778569276e484e1b92637ad061b01e13a048b35a9d280c3b58970f": {
                             id: "225affb176778569276e484e1b92637ad061b01e13a048b35a9d280c3b58970f",
                             name: "Safe",
